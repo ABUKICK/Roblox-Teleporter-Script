@@ -14,4 +14,4 @@ A secure and feature-rich **Server Script** for Roblox that allows players to te
 2. Create two Parts in your Workspace and name them exactly `teleporter1` and `teleporter2`.
 3. Insert a standard **Script** (not a LocalScript) into **ServerScriptService** (or Workspace).
 4. Paste the code from `TeleporterScript.lua` into the script.
-5. Playtest your game and step on the teleporters!
+5. Playtest your game and step on the teleporters! 
